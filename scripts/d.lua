@@ -1,7 +1,7 @@
-for i=1,5 do
-print("silly")
+print'test'
+
+for _,v in ipairs(workspace:GetDescendants()) do
+if v:IsA("BasePart") then
+print(v.Name)
 end
-function doesitprint()
-print("did it print?")
 end
-return function() doesitprint() end
