@@ -1,1 +1,5 @@
-return function() print("First script executed") end
+script=[[for _,v in ipairs(game.Players:GetPlayers()) do
+    print(v.Name)
+end]]
+
+return function() script end
