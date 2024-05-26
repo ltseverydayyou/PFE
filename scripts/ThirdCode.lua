@@ -1,1 +1,1 @@
-return print'code3 works'
+return function() print("Third script executed") end
