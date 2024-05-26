@@ -4,4 +4,4 @@ for _,v in ipairs(game.Players:GetPlayers()) do
 end
 end
 
-return test()
+return function() test() end
