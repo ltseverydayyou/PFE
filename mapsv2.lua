@@ -5,8 +5,7 @@
 |   | |   |  \  ___/\  ___// /_/ |   / __ \_ |   Y  \  |  / /_/  >
 |___| |___|  /\___  >\___  >____ |  (____  / |___|  /____/\___  / 
            \/     \/     \/     \/       \/       \/     /_____/  
---]]
---[[
+
 [ID] = Devs = {DevsofMap Or Empty}, Verified = Bool (true or false if a map dev has given perms)}
 ]]
 return {
