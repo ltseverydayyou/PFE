@@ -4,6 +4,8 @@ this will migrate to the newer map list
 how will it work?
 so the index will be the map ID and the value will be the Devs of the maps (UserID) if you know who made it.
 Verified value is used to show if you have asked the dev/devs about using the map before adding it
+in studio use 
+for i,v in pairs(game.Workspace.MapsIDS:GetChildren()) do print(v.Name..": "..v.Value) end 
 ]]
 return {
 	[17222447445] = {Devs = {30892915}, Verified = false},
