@@ -252,7 +252,7 @@ return {
 	[17227609590] = {Devs = {5117870034}, Verified = true},
 	[17227612711] = {Devs = {5117870034}, Verified = true},
 	[17227615743] = {Devs = {5117870034}, Verified = true},
-	[17227626036] {Devs = {169272943}, Verified = false},
+	[17227626036] = {Devs = {169272943}, Verified = false},
 	[17227628918] = {Devs = {176072402, 321092803}, Verified = false},
 	[17227632313] = {Devs = {--[[ The Great Developers ]]}, Verified = false},
 	[17227634575] = {Devs = {--[[ T- ]]}, Verified = false},
