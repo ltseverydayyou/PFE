@@ -307,7 +307,7 @@ return {
 	[17227819254] = {Devs = {571376050}, Verified = false},
 	[17227821793] = {Devs = {--[[ myth and rival ]]}, Verified = false},
 	[17227825810] = {Devs = {142231399}, Verified = false},
-	[17227828870] = {Devs = {--[[ DO AFTER ]]}, Verified = false},
+	[17227828870] = {Devs = {156256804,229501685 }, Verified = true},
 	[17227831181] = {Devs = {20318423}, Verified = false},
 	[17227834045] = {Devs = {--[[ what the fu-- is that name ]]}, Verified = false},
 	[17227836579] = {Devs = {141563617,276705893,731098277}, Verified = false},
