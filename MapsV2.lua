@@ -14,7 +14,7 @@ return {
 	[17226491011] = {Devs = {153131958}, Verified = false}, -- Account attached was removed from roblox
 	[17226494931] = {Devs = {5117870034}, Verified = true},
 	[17226501510] = {Devs = {134409318}, Verified = false},
-	[17226509461]= {Devs = {153131958 --[[ Account was removed ]], 275229802}, Verified = false}, -- one user is missing
+	[17226509461]= {Devs = {153131958 --[[ Account was removed --]], 275229802}, Verified = false}, -- one user is missing
 	[17226523830] = {Devs = {20318423, 114342001, 111005606}, Verified = false},
 	[17226526893] = {Devs = {728565053}, Verified = false},
 	[17226531198] = {Devs = {120724766}, Verified = false},
@@ -23,8 +23,8 @@ return {
 	[17226540277] = {Devs = {108513769}, Verified = false},
 	[17226542842] = {Devs = {278942959}, Verified = false},
 	[17226547078] = {Devs = {278942959}, Verified = false},
-	[17226551483] = {Devs = {278942959 --[[ WHO IS KRIS ]]}, Verified = false},
-	[17226563018] = {Devs = {208640049, --[[20574 prob not merp]]  }, Verified = false},
+	[17226551483] = {Devs = {278942959 --[[ WHO IS KRIS --]]}, Verified = false},
+	[17226563018] = {Devs = {208640049, --[[20574 prob not merp --]]  }, Verified = false},
 	[17226572636] = {Devs = {102814147}, Verified = false},
 	[17226576011] = {Devs = {5117870034}, Verified = true},
 	[17226580556] = {Devs = {72855684}, Verified = false},
