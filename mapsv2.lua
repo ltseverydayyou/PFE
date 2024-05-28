@@ -1,11 +1,13 @@
-
 --[[
-this will migrate to the newer map list
-how will it work?
-so the index will be the map ID and the value will be the Devs of the maps (UserID) if you know who made it.
-Verified value is used to show if you have asked the dev/devs about using the map before adding it
-in studio use 
-for i,v in pairs(game.Workspace.MapsIDS:GetChildren()) do print(v.Name..": "..v.Value) end 
+.___                           .___          .__                  
+|   |   ____   ____   ____   __| _/ _____    |  |__  __ __  ____  
+|   |  /    \_/ __ \_/ __ \ / __ |  \__  \   |  |  \|  |  \/ ___\ 
+|   | |   |  \  ___/\  ___// /_/ |   / __ \_ |   Y  \  |  / /_/  >
+|___| |___|  /\___  >\___  >____ |  (____  / |___|  /____/\___  / 
+           \/     \/     \/     \/       \/       \/     /_____/  
+--]]
+--[[
+[ID] = Devs = {DevsofMap Or Empty}, Verified = Bool (true or false if a map dev has given perms)}
 ]]
 return {
 	[17222447445] = {Devs = {30892915}, Verified = false},
