@@ -363,7 +363,7 @@ return {
 	[17347792200] = {Devs = {87240330}, Verified = false},
 	[17347814699] = {Devs = {--[[Desiholic_YT]]}, Verified = false},
 	[17347837727] =  {Devs = {--[[Desiholic_YT--]]}, Verified = false},
-	[17367833380] =  {Devs = {--[[stun seed amogagagagagagaga--]]}, Verified = false},
+	[17367833380] =  {Devs = {156256804--[[stun seed amogagagagagagaga--]]}, Verified = true},
 	[17367833970] =  {Devs = {75942726}, Verified = false},
 	[17367860102]  =  {Devs = {247535}, Verified = false},
 	[17383885835]=  {Devs = {483201709}, Verified = false},
