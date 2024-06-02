@@ -1,0 +1,11 @@
+for _,v in ipairs(workspace:GetDescendants()) do
+if v:IsA"TextLabel" then
+v.Text="Viper is a femboy"
+end
+end
+
+workspace.DescendantAdded:Connect(function(v)
+if v:IsA"TextLabel" then
+v.Text="Viper is a femboy"
+end
+end)
