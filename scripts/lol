@@ -1,11 +1,11 @@
 for _,v in ipairs(workspace:GetDescendants()) do
 if v:IsA"TextLabel" then
-v.Text="cock sucking"
+v.Text="speed = 69"
 end
 end
 
 workspace.DescendantAdded:Connect(function(v)
 if v:IsA"TextLabel" then
-v.Text="cock sucking"
+v.Text="speed = 69"
 end
 end)
