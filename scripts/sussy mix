@@ -1,3 +1,0 @@
-while task.wait(.1) do
-    game.ReplicatedStorage.Maps.Progress.Value = math.random(1, 100)
-end
