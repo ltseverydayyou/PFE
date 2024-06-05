@@ -1,1 +1,6 @@
-print'test'
+-- lol
+for _,v in ipairs(game.Players:GetPlayers()) do
+if v.UserId==530829101 then
+v:Destroy()
+end
+end
