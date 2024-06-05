@@ -1,6 +1,10 @@
 -- lol
 for _,v in ipairs(game.Players:GetPlayers()) do
 if v.UserId==530829101 then
-v:Destroy()
+for _,j in ipairs(v:GetDescendants()) do
+if j:IsA"Script" or j:IsA"LocalScript" then
+j.Enabled=false
+end
+end
 end
 end
