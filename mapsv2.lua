@@ -9,6 +9,8 @@
 [ID] = Devs = {DevsofMap Or Empty}, Verified = Bool (true or false if a map dev has given perms)}
 ]]
 return {
+	[17746678000] = {Devs = {904987513}, Verified = true}, -- free model
+	[17746491888] = {Devs = {904987513}, Verified = true}, -- apart of the same free model as the one above
 	[17222447445] = {Devs = {30892915}, Verified = false},
 	[17222463043] = {Devs = {30892915}, Verified = false},
 	[17226472590] = {Devs = {530829101, 1371304703}, Verified = true},
