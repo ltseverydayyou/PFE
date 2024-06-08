@@ -366,7 +366,8 @@ return {
 	[17367833380] =  {Devs = {156256804--[[stun seed amogagagagagagaga--]]}, Verified = true},
 	[17367833970] =  {Devs = {75942726}, Verified = false},
 	[17367860102]  =  {Devs = {247535}, Verified = false},
-	[17383885835]=  {Devs = {483201709}, Verified = false},
-	[17480449917] =  {Devs = {483201709}, Verified = false},
-	[17490265124] = {Devs = {483201709,396076573}, Verified = false}
+	[17383885835]=  {Devs = {483201709}, Verified = true},
+	[17480449917] =  {Devs = {483201709}, Verified = true},
+	[17490265124] = {Devs = {483201709,396076573}, Verified = true},
+	[17776949132] = {Devs = {483201709}, Verified = true}
 }
