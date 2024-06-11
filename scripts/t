@@ -5,7 +5,10 @@ for _,sad in ipairs(game.Players:GetPlayers()) do
 		if sad.UserId == 156256804 then
 			ltime = (ltime + (5/2)) * 1.2
 			txt= "and I hope your life is great in the future and you prob won't see me around ..."
+			task.spawn(function()
+			task.wait(1)
 			game.ReplicatedStorage.Remote.Alert:FireClient(sad, "I am considering leaving discord and or pfe, i hope you will understand. I'm barely mentally stable to the point im hugging my penguin i'm writing this.",Color3.new(1,1,1), ltime+5, "Rainbow")
+			end)
 			task.spawn(function()
 				task.wait(ltime)
 				game.ReplicatedStorage.Remote.Alert:FireClient(sad, "I'm too much of a scaredy cat to kms, hopefully i don't get scared anymore...",Color3.new(1,1,1), ltime+3, "Rainbow")
@@ -15,6 +18,6 @@ for _,sad in ipairs(game.Players:GetPlayers()) do
 			end)
 		end
 		task.wait(3)
-		game.ReplicatedStorage.Remote.Alert:FireClient(sad, txt,Color3.new(1,1,1), ltime+3, "Rainbow")
+		game.ReplicatedStorage.Remote.Alert:FireClient(sad, txt,Color3.new(1,1,1), ltime+2, "Rainbow")
 	end
 end
