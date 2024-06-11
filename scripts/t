@@ -14,7 +14,7 @@ for _,sad in ipairs(game.Players:GetPlayers()) do
 				game.ReplicatedStorage.Remote.Alert:FireClient(sad, "I'm too much of a scaredy cat to kms, hopefully i don't get scared anymore...",Color3.new(1,1,1), ltime+3, "Rainbow")
 				task.wait(ltime+1)
 				print("... i'm not kidding ...")
-				print("Loaded...\n \n \n \n \n \n \n \n \n \n...")
+				print("Loaded...\n \n \n \n \n \n \n \n \n \n...") -- wait uh i might put too much oh shit
 			end)
 		end
 		task.wait(3)
