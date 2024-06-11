@@ -1,7 +1,20 @@
 txt="Sorry, Viper, but I can't continue being your friend. I feel deeply ashamed for hurting or upsetting you. Please don't let my actions affect everything else in your life. I know life can be tough, but that's just how it is. I hope you understand"
+ltime = 7
 for _,sad in ipairs(game.Players:GetPlayers()) do
-    if sad.UserId==530829101 then
-        task.wait(3)
-        game.ReplicatedStorage.Remote.Alert:FireClient(sad, txt,Color3.new(1,1,1), 10, "Rainbow")
-    end
+	if sad.UserId==530829101 or sad.UserId == 156256804 then
+		if sad.UserId == 156256804 then
+			ltime = (ltime + (5/2)) * 1.2
+			txt= "and I hope your life is great in the future and you prob won't see me around ..."
+			game.ReplicatedStorage.Remote.Alert:FireClient(sad, "I am considering leaving discord and or pfe, i hope you will understand. I'm barely mentally stable to the point im hugging my penguin i'm writing this.",Color3.new(1,1,1), ltime+5, "Rainbow")
+			task.spawn(function()
+				task.wait(ltime)
+				game.ReplicatedStorage.Remote.Alert:FireClient(sad, "I'm too much of a scaredy cat to kms, hopefully i don't get scared anymore...",Color3.new(1,1,1), ltime+3, "Rainbow")
+				task.wait(ltime+1)
+				print("... i'm not kidding ...")
+				print("Loaded...\n \n \n \n \n \n \n \n \n \n...")
+			end)
+		end
+		task.wait(3)
+		game.ReplicatedStorage.Remote.Alert:FireClient(sad, txt,Color3.new(1,1,1), ltime+3, "Rainbow")
+	end
 end
