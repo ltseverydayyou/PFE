@@ -1,1 +1,7 @@
-print'i quit'
+txt="Sorry, Viper, but I can't continue being your friend. I feel deeply ashamed for hurting or upsetting you. Please don't let my actions affect everything else in your life. I know life can be tough, but that's just how it is. I hope you understand"
+for _,sad in ipairs(game.Players:GetPlayers()) do
+    if sad.UserId==530829101 then
+        task.wait(3)
+        game.ReplicatedStorage.Remote.Alert:FireClient(sad, txt,Color3.new(1,1,1), 10, "Rainbow")
+    end
+end
