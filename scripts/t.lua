@@ -8,7 +8,7 @@ function prank()
 end
 
 for _,plr in ipairs(game.Players:GetPlayers()) do
-  if plr.UserId == 1633907297 or plr.UserId == 1801015809 then
+  if plr.UserId == 1801015809 then
     for _,ui in ipairs(plr.PlayerGui:GetDescendants()) do
       pcall(function() ui.Name = prank() end)
     end
