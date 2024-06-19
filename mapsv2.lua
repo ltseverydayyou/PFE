@@ -160,9 +160,6 @@ return {
 	[17227184314] = {Devs = {321092803}, Verified = false},
 	[17227187316] = {Devs = {5117870034}, Verified = true},
 	[17227189932] = {Devs = {530829101,5117870034}, Verified = true},
-	[17227193214] = {Devs = {1439014032}, Verified = false},
-	[17227197083] = {Devs = {1439014032}, Verified = false},
-	[17227205654] = {Devs = {1439014032}, Verified = false},
 	[17227211330] = {Devs = {894300979}, Verified = false},
 	[17227214852] = {Devs = {810736587, 544563959}, Verified = false},
 	[17227217420] = {Devs = {64463064}, Verified = false},
@@ -372,6 +369,5 @@ return {
 	[17480449917] =  {Devs = {483201709}, Verified = true},
 	[17490265124] = {Devs = {483201709,396076573}, Verified = true},
 	[17776949132] = {Devs = {483201709}, Verified = true},
-	[17796545968] = {Devs = {490234482,1439014032}, Verified = false},
 	[17880972063] = {Devs = {483201709}, Verified = true}
 }
