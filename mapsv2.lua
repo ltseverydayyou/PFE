@@ -377,5 +377,6 @@ return {
 	[18143201800] = {Devs = {808911128,349676407,92450738}, Verified = false},
 	[18143205233] = {Devs = {58077774}, Verified = false},
 	[18158204788] = {Devs = {483201709}, Verified = true},
-	[18158236726] = {Devs = {269844624}, Verified = true}
+	[18158236726] = {Devs = {269844624}, Verified = true},
+	[18175317188] = {Devs = {9687294,23857677,16254831}, Verified = false}
 }
