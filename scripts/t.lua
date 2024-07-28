@@ -1,1 +1,1 @@
-for i=1,1000 do task.wait(.2) print"floght is sexy" end
+for i=1,1000 do task.wait() print"floght is sexy" end
