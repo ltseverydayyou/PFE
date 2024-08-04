@@ -1,1 +1,1 @@
-print'fuck you floght'
+print'"Thanks for testing nooby"'
