@@ -1,1 +1,1 @@
-print'die'
+print'i am not awesome and will never be one stfu and let me visit hell as deserved'
