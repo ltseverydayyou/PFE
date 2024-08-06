@@ -1,1 +1,1 @@
-print'i am not awesome and will never be one stfu and let me visit hell as deserved'
+print"i'm visting hell as deserved, you do not deserve to, you are a good person!"
