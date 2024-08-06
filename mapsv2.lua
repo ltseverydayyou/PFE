@@ -9,6 +9,7 @@
 [ID] = Devs = {DevsofMap Or Empty}, Verified = Bool (true or false if a map dev has given perms)}
 ]]
 return {
+	[18829138028] = {Devs = {483201709}, Verified = true}, -- welcome back ethelpo!
 	[17746678000] = {Devs = {904987513}, Verified = true}, -- free model
 	[17746491888] = {Devs = {904987513}, Verified = true}, -- apart of the same free model as the one above
 	[17222447445] = {Devs = {30892915}, Verified = false},
