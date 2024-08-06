@@ -1,1 +1,1 @@
-print"i'm visting hell as deserved, you do not deserve to, you are a good person!"
+print"shut yo bitch ass up you're purposely saying this shit, you know no shit abt me nor anything i've been through, and NOT only fe2 gay ass shit they can ride my dick all day and suck on it, stop acting like you know much than i do"
