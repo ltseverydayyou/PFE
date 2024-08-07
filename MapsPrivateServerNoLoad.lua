@@ -3,7 +3,7 @@ Stop users loading requested removed maps here
 
 -- the deadline is used so that a map can be loaded before a certain time
 
-[MapID] = {deadline = Ostimestap or 0}
+[MapID] = {deadline = unixTimestap or 0}
 
 https://rechneronline.de/add-time/timestamp.php
 ]]
