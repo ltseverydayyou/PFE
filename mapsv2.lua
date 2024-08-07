@@ -374,9 +374,12 @@ return {
 	[18737404220] = {Devs = {773998878}, Verified = false},
 	[18737435918] = {Devs = {433629254}, Verified = true},
 	[18737264083] = {Devs = {1981546634}, Verified = false},
-	[18812029215] = {Devs = {3947701575}, Verified = false},
+	[18812029215] = {Devs = {3947701575}, Verified = false}
+	--[[ 
+	Removed by request
 	[17796545968] = {Devs = {490234482,1439014032}, Verified = false},
 	[17227205654] = {Devs = {1439014032}, Verified = false},
 	[17227197083] = {Devs = {1439014032}, Verified = false},
 	[17227193214] = {Devs = {1439014032}, Verified = false}
+	--]]
 }
