@@ -8,6 +8,7 @@ Stop users loading requested removed maps here
 https://rechneronline.de/add-time/timestamp.php
 ]]
 return {
+  -- shows the stupid popup -- for more the models are replaced with blank ones
 [17796545968] = {deadline = 1723142529863},
 [17227205654] = {deadline = 1723142529863},
 [17227197083] = {deadline = 1723142529863},
