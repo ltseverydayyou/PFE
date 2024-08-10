@@ -363,7 +363,7 @@ return {
 	[17367860102]  =  {Devs = {247535}, Verified = false},
 	[18143186105] = {Devs = {120724766,133854792}, Verified = false},
 	[18143188721] = {Devs = {1077598056}, Verified = false},
-	[18143191487] = {Devs = {907054023}, Verified = false},
+	[18143191487] = {Devs = {907054023}, Verified = false, NewMap=true},
 	[18143195992] = {Devs = {978559466}, Verified = false},
 	[18143201800] = {Devs = {808911128,349676407,92450738}, Verified = false},
 	[18143205233] = {Devs = {58077774}, Verified = false},
@@ -374,14 +374,6 @@ return {
 	[18737404220] = {Devs = {773998878}, Verified = false},
 	[18737435918] = {Devs = {433629254}, Verified = true},
 	[18737264083] = {Devs = {1981546634}, Verified = false},
-	[18812029215] = {Devs = {3947701575}, Verified = false},
+	[18812029215] = {Devs = {3947701575}, Verified = false, NewMap=true, Updated=true},
 	[18864486524] = {Devs = {3947701575}, Verified = false};
-	--[18849327808] = {Devs = {507326268,560686602}, Verified = false} idk if this is safe since it's really close to the og
-	--[[ 
-	Removed by request -- bolaraity request (1439014032)
-	[17796545968] = {Devs = {490234482,1439014032}, Verified = false},
-	[17227205654] = {Devs = {1439014032}, Verified = false},
-	[17227197083] = {Devs = {1439014032}, Verified = false},
-	[17227193214] = {Devs = {1439014032}, Verified = false}
-	--]]
 }
