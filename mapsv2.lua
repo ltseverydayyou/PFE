@@ -6,7 +6,14 @@
 |___| |___|  /\___  >\___  >____ |  (____  / |___|  /____/\___  / 
            \/     \/     \/     \/       \/       \/     /_____/  
 
-[ID] = Devs = {DevsofMap Or Empty}, Verified = Bool (true or false if a map dev has given perms), NewMap = Bool (if it's a new map set this to true), Updated = Bool (if the map is updated set it to true)
+[ID] = Devs = {DevsofMap Or Empty}, Verified = Bool (true or false if a map dev has given perms) 
+
+-- EXTRAS
+
+NewMap = Bool (if it's a new map set this to true)
+Updated = Bool (if the map is updated set it to true)
+
+forceDiff = num (force a map's difficulty to be a specific one when it's getting loaded [if you're not bothered to manually override the model])
 ]]
 return {
 	[17746678000] = {Devs = {904987513}, Verified = true}, -- free model
@@ -375,5 +382,5 @@ return {
 	[18829138028] = {Devs = {483201709}, Verified = true, NewMap=true},
 	[18812029215] = {Devs = {3947701575}, Verified = false, NewMap=true},
 	[18864486524] = {Devs = {3947701575}, Verified = false, NewMap=true},
-	[18888792658] = {Devs = {708898366,646543750}, Verified = false, NewMap=true},
+	[18888792658] = {Devs = {708898366,646543750}, Verified = false, NewMap=true, forceDiff=1},
 }
