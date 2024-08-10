@@ -9,7 +9,6 @@
 [ID] = Devs = {DevsofMap Or Empty}, Verified = Bool (true or false if a map dev has given perms), NewMap = Bool (if it's a new map set this to true), Updated = Bool (if the map is updated set it to true)
 ]]
 return {
-	[18829138028] = {Devs = {483201709}, Verified = true}, -- welcome back ethelpo!
 	[17746678000] = {Devs = {904987513}, Verified = true}, -- free model
 	[17746491888] = {Devs = {904987513}, Verified = true}, -- apart of the same free model as the one above
 	[17222447445] = {Devs = {30892915}, Verified = false},
@@ -373,6 +372,7 @@ return {
 	[18467856236] = {Devs = {1953029918}, Verified = true},
 	[18737404220] = {Devs = {773998878}, Verified = false},
 	[18737264083] = {Devs = {1981546634}, Verified = false},
+	[18829138028] = {Devs = {483201709}, Verified = true, NewMap=true},
 	[18812029215] = {Devs = {3947701575}, Verified = false, NewMap=true},
 	[18864486524] = {Devs = {3947701575}, Verified = false, NewMap=true};
 }
