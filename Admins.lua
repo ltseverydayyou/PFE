@@ -1,5 +1,5 @@
 return {
-	[156256804] = true;    -- maxype (idiot/useless)
+	[156256804] = true;    -- maxype
 	[229501685] = true;    -- mixalispantidos12
 	[5117870034] = true;   -- TotallyNotAwesomee
 	[530829101] = true;    -- momogreek2010
@@ -9,5 +9,6 @@ return {
 	[1633907297] = true;   -- SecretSeason4
 	[1109412317] = true;   -- Vinca
 	[1537680290] = true;   -- ProGamerFe2MapTest
-	[144324719] = true;     -- Cosmic
+	[144324719] = true;    -- Cosmic
+	[1949739172] = true;   --FlightCalm
 }
