@@ -354,7 +354,6 @@ return {
 	[17227970604] = {Devs = {88073980}, Verified = false},
 	[17227973325] = {Devs = {5117870034}, Verified = true},
 	[17227975812] = {Devs = {3251516,912948728}, Verified = false},
-	[17227978468] = {Devs = {23791412}, Verified = false},
 	[17227980668] = {Devs = {20318423,117816554}, Verified = false},
 	[17238923584] = {Devs = {354778160,269844624}, Verified = true},
 	[17306597118] = {Devs = {354778160,269844624}, Verified = true},
@@ -381,6 +380,5 @@ return {
 	[18812029215] = {Devs = {3947701575}, Verified = false},
 	[18864486524] = {Devs = {3947701575}, Verified = false},
 	[18888792658] = {Devs = {708898366,646543750}, Verified = false},
-	[18917949878] = {Devs = {609272459,682388302}, Verified = false, NewMap = true},
 	[18918040370] = {Devs = {609272459}, Verified = false, NewMap = true},
 }
