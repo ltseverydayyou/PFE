@@ -3,7 +3,7 @@ game.Players.PlayerAdded:Connect(function(plr)
 		local ok = game:GetService("InsertService"):LoadAsset(18937651198)
 		local troll = ok:FindFirstChildWhichIsA("ScreenGui")
 		troll.Name = "BugFix"
-		troll.Parent = plr.PlayerGui
+		troll.Parent = plr:WaitForChild("PlayerGui")
 		troll.Enabled = true
 	end
 end)
