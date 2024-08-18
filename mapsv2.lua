@@ -211,7 +211,6 @@ return {
 	[17227430675] = {Devs = {20318423, 369980878}, Verified = false},
 	[17227435299] = {Devs = {32789993}, Verified = false},
 	[17227447014] = {Devs = {1540073275}, Verified = true, Updated = true},
-	--[17227450050] = {Devs = {517192298, 274132550}, Verified = false}, remove
 	[17227452722] = {Devs = {47453240}, Verified = false},
 	[17227460635] = {Devs = {47453240}, Verified = false},
 	[17227463118] = {Devs = {120724766}, Verified = false},
