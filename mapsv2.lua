@@ -281,7 +281,7 @@ return {
 	[17227718860] = {Devs = {60572336}, Verified = false},
 	[17227721073] = {Devs = {1393082137}, Verified = false},
 	[17227723538] = {Devs = {60572336}, Verified = false},
-	[17227726727] = {Devs = {229435307, 167946422}, Verified = false},
+	--[17227726727] = {Devs = {229435307, 167946422}, Verified = false},
 	[17227729386] = {Devs = {5117870034}, Verified = true},
 	[17227731503] = {Devs = {5117870034,530829101}, Verified = true},
 	[17227743293] = {Devs = {354778160}, Verified = true},
