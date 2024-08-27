@@ -383,4 +383,6 @@ return {
 	[18947698152] = {Devs = {483201709}, Verified = true},
 	[91813189468937] = {Devs = {434755962}, Verified = false, NewMap = true},
 	[95094329979377] = {Devs = {612324472}, Verified = false, NewMap = true},
+	[92265903012028] = {Devs = {1953029918}, Verified = true, NewMap = true},
+	[132255108186304] = {Devs = {3947701575}, Verified = false, NewMap = true},
 }
