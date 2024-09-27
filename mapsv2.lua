@@ -390,6 +390,6 @@ return {
 	[128557149555106] = {Devs = {671234814}, Verified = false},
 	[86930121395122] = {Devs = {123465126,547143643}, Verified = false},
 	[113043929858543] = {Devs = {426225114,138801491}, Verified = false},
-	[114328020891977] = {Devs = {681803359}, Verified = false, NewMap=true},
-	[78087679421336] = {Devs = {681803359}, Verified = false, NewMap=true},
+	[114328020891977] = {Devs = {681803359}, Verified = false},
+	[78087679421336] = {Devs = {681803359}, Verified = false},
 }
