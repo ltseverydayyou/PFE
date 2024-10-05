@@ -391,4 +391,9 @@ return {
 	[93016083544758] = {Devs = {2830737807,352932775}, Verified = true},
 	[79054914856813] = {Devs = {366227181--[[id who is Decaplex]]}, Verified = false, NewMap = true},
 	[118047743680341] = {Devs = {6098417997}, Verified = false, NewMap = true},
+	[114944708536880] = {Devs = {620083417,1174436352}, Verified = false, NewMap = true},
+	[129077482946681] = {Devs = {403017893,563691397,167946422,52651506,2565315141}, Verified = false, NewMap = true},
+	[139742285040995] = {Devs = {560049028, 2565315141,167946422}, Verified = false, NewMap = true},
+	[123410702992396] = {Devs = {1333893839}, Verified = false, NewMap = true},
+	[127343396860385] = {Devs = {167946422,1174436352,366788546,563691397,237221438,435510760,992618954}, Verified = false, NewMap = true},
 }
