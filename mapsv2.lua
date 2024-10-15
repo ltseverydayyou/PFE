@@ -393,7 +393,7 @@ return {
 	[79054914856813] = {Devs = {366227181--[[id who is Decaplex]]}, Verified = false, NewMap = true},
 	[118047743680341] = {Devs = {6098417997}, Verified = false, NewMap = true},
 	[114944708536880] = {Devs = {620083417,1174436352}, Verified = false, NewMap = true},
-	[129077482946681] = {Devs = {403017893,563691397,167946422,52651506,2565315141}, Verified = false, NewMap = true, Pitch=2},
+	[129077482946681] = {Devs = {403017893,563691397,167946422,52651506,2565315141}, Verified = false, NewMap = true},
 	[139742285040995] = {Devs = {560049028, 2565315141,167946422}, Verified = false, NewMap = true},
 	[123410702992396] = {Devs = {1333893839}, Verified = false, NewMap = true},
 }
