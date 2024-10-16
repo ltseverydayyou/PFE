@@ -403,4 +403,5 @@ return {
 	[110667229815289] = {Devs = {310917095, 185028321, 2817796610, 620083417, 205148900}, Verified = false, NewMap=true},
 	[104544293853417] = {Devs = {56628786}, Verified = false, NewMap=true},
 	[101027259542175] = {Devs = {800560809,135537821--[[who tf is bara]],1849242579}, Verified = false, NewMap=true},
+	[88219010604105] = {Devs = {644291468}, Verified = false, NewMap=true},
 }
