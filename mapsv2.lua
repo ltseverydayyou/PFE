@@ -402,9 +402,9 @@ return {
 	[79141949327686] = {Devs = {147666370, 620083417}, Verified = false},
 	[104544293853417] = {Devs = {56628786}, Verified = false},
 	[101027259542175] = {Devs = {800560809,135537821--[[who tf is bara]],1849242579}, Verified = false},
-	[81506915109504] = {Devs = {3713547159,483201709}, Verified = true},
+	[81506915109504] = {Devs = {3713547159,483201709}, Verified = true, Updated=true},
 	[88219010604105] = {Devs = {644291468}, Verified = false},
 	[103805263285108] = {Devs = {327023182,102539007,731098277,31872272}, Verified = false},
 	[74636124156133] = {Devs = {483201709}, Verified = true},
-	[139967946388807] = {Devs = {352932775}, Verified = true, NewMap = true},
+	[139967946388807] = {Devs = {352932775}, Verified = true},
 }
