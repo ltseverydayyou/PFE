@@ -1,3 +1,5 @@
-log=[[testing patch notes]]
+log=[[- Zipline Changes
+- Fixed small bugs
+- Small performance improvements]]
 
 return log
