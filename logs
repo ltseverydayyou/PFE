@@ -1,6 +1,3 @@
-log=[[- Zipline Rework
-- Slide Rework
-- Fixed small bugs
-- Small performance improvements]]
+log=[[- Discontinued]]
 
 return log
