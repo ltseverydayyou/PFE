@@ -1,0 +1,23 @@
+name: Update Announcement JSON
+
+on:
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Update api.json
+        run: |
+          echo '{ "trigger": true, "announcement": "poo" }' > docs/api.json
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add docs/api.json
+          git commit -m "Update api.json"
+          git push
