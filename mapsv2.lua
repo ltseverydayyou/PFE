@@ -46,7 +46,6 @@ return {
 	[17226692651] = {Devs = {278942959}, Verified = false},
 	[17226706594] = {Devs = {496734305}, Verified = false},
 	[17226721066] = {Devs = {493419194}, Verified = false},
-	[17226728178] = {Devs = {133299508, 123465126}, Verified = false},
 	[17226731225] = {Devs = {60582255}, Verified = false},
 	[17226740685] = {Devs = {321092803}, Verified = false},
 	[17226743435] = {Devs = {4048315}, Verified = false}, -- ? user account missing
@@ -202,7 +201,6 @@ return {
 	[17227891672] = {Devs = {354778160, 141563617, 378945144}, Verified = false},
 	[17227894344] = {Devs = {354778160, 117816554}, Verified = false},
 	[17227897272] = {Devs = {354778160, 117816554,11761417}, Verified = false},
-	[17227900394] = {Devs = {463016603}, Verified = true},
 	[17227903379] = {Devs = {6340617}, Verified = false},
 	[17227909997] = {Devs = {640727709}, Verified = false},
 	[17227915448] = {Devs = {354778160, 11761417, 229501685}, Verified = true},
