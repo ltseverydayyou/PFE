@@ -320,7 +320,6 @@ return {
 [118811613644876] = {Devs = {239984651,483136147,671043296}, Verified = false, NewMap = true},
 [97475774172167] = {Devs = {349068036}, Verified = false, NewMap = true},
 [84508730517954] = {Devs = {141563617}, Verified = false, NewMap = true},
-[108262948038454] = {Devs = {4700957434}, Verified = false, NewMap = true},
 [120522441560506] = {Devs = {55616641,167134349,118700640,101171181}, Verified = false, NewMap = true},
 [84931303133670] = {Devs = {1439014032}, Verified = false, NewMap = true},
 [126637881621583] = {Devs = {681803359}, Verified = false, NewMap = true},
