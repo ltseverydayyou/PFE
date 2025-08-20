@@ -246,7 +246,7 @@ return {
 	[101027259542175] = {Devs = {800560809,135537821--[[who tf is bara]],1849242579}, Verified = false},
 	[88219010604105] = {Devs = {644291468}, Verified = false},
 	[103805263285108] = {Devs = {327023182,102539007,731098277,31872272}, Verified = false},
-	[90977993025426] = {Devs = {293918254}, Verified = false},
+	[90977993025426] = {Devs = {293918254}, Verified = false, Updated = true},
 	[99739479749615] = {Devs = {120724766}, Verified = false},
 	[138171447521033] = {Devs = {218904496,7531676}, Verified = false},
 	[74472364922035] = {Devs = {218904496,7531676}, Verified = false},
