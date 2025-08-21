@@ -330,7 +330,7 @@ return {
 	[105990106613849] = {Devs = {883146465}, Verified = false, NewMap = true},
 	[89712710300078] = {Devs = {204336434,287003139,152542926,147641356}, Verified = false, NewMap = true},
 	[89392201219435] = {Devs = {930209478}, Verified = false, NewMap = true},
-	[140408790772882] = {Devs = {120724766,1077598056,55041748}, Verified = false, NewMap = true},
+	[140408790772882] = {Devs = {120724766,1077598056,55041748}, Verified = false, NewMap = true, Pitch=1.1},
 	[98054267589150] = {Devs = {1468219009}, Verified = false, NewMap = true},
 	[112586746788333] = {Devs = {1468219009,1275002428,601310971}, Verified = false, NewMap = true},
 	[117181582990543] = {Devs = {55616641,181661453,118700640}, Verified = false, NewMap = true},
