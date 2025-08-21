@@ -36,7 +36,6 @@ return {
 	[17226594513] = {Devs = {16359989}, Verified = false},
 	[17226601641] = {Devs = {632622074--[[ The Great Developers ]]}, Verified = false},
 	[17226603999] = {Devs = {135537821, 102300880, 52006065, 335449434}, Verified = false},
-	[17226606204] = {Devs = {102539007}, Verified = false},
 	[17226623892] = {Devs = {135537821, 241498700, 953977092, 1808304004}, Verified = false},
 	[17226676463] = {Devs = {860905543}, Verified = false},
 	[17226682605] = {Devs = {199247456}, Verified = false},
