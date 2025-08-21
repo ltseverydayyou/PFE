@@ -336,7 +336,5 @@ return {
 	[117181582990543] = {Devs = {55616641,181661453,118700640}, Verified = false, NewMap = true},
 	[127052266902627] = {Devs = {330907535}, Verified = false, NewMap = true},
 	[121369766223158] = {Devs = {55616641,167134349,118700640,101171181}, Verified = false, NewMap = true, Pitch=1.2},
-
-
-
+	[128830458708429] = {Devs = {490234482}, Verified = false, NewMap = true},
 }
