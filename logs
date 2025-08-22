@@ -1,4 +1,33 @@
-log=[[- AMAEZING NOOBYYYYY
-- BZZZZZZZZZZZZ]]
+log=[[
+<font size="24" color="rgb(200,200,255)"><b>Update Log</b></font>
+
+<font size="20" color="rgb(180,220,255)"><b>UI & Settings</b></font>
+- Remade several <b>UI elements</b> for a cleaner look.  
+- Added customizable <b>Shiftlock icon (PC)</b>.  
+- <b>Custom UI colors</b> now save between sessions.  
+- Added <b>custom fonts</b> support.  
+- <b>UI corners</b> are now toggleable.  
+- <b>Airdive speed</b> is customizable in settings.  
+- New customizable <b>Water, Acid, and Lava splash SFX</b>.  
+- Added customizable <b>Button press SFX</b>.  
+- Added <b>Kill audio toggle</b>.  
+- Added <b>settings header shortcuts</b> for quicker navigation.  
+
+<font size="20" color="rgb(180,255,200)"><b>Gameplay & Mechanics</b></font>
+- <b>Slide reworked</b> with toggleable Free Roam mode (in settings) and adjustable airdive speed.  
+- <b>Exploding buttons</b> now display a countdown timer that lowers as difficulty increases.  
+- <b>Voting system reworked:</b>  
+  • Extra votes now purchasable with tickets.  
+  • Map voting tiles now display current votes.  
+- <b>Intermission reworked</b>.  
+- Improved <b>button functionalities</b>.  
+
+<font size="20" color="rgb(255,220,180)"><b>Optimization</b></font>
+- Rewritten parts of the code for <b>better performance</b>.  
+- <b>Button locators optimized</b>.  
+
+<font size="20" color="rgb(255,180,180)"><b>Maps</b></font>
+- Added <b>40+ new maps</b>.  
+]]
 
 return log
