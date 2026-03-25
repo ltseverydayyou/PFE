@@ -1,1 +1,1 @@
-[{"file":"t.lua","source":"print(\"testing something\")\n"}]
+[{"file":"test.lua","source":"print'part1'"},{"file":"test2.lua","source":"print'part2'"}]
