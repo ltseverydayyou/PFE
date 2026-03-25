@@ -13,15 +13,17 @@ function Get-RelativeUnixPath {
         [string]$TargetPath
     )
 
-    $resolvedBasePath = (Resolve-Path $BasePath).Path.TrimEnd('\')
+    $directorySeparator = [System.IO.Path]::DirectorySeparatorChar
+    $altDirectorySeparator = [System.IO.Path]::AltDirectorySeparatorChar
+    $resolvedBasePath = (Resolve-Path $BasePath).Path.TrimEnd($directorySeparator, $altDirectorySeparator)
     $resolvedTargetPath = (Resolve-Path $TargetPath).Path
-    $basePrefix = "$resolvedBasePath\"
+    $basePrefix = "$resolvedBasePath$directorySeparator"
 
     if (-not $resolvedTargetPath.StartsWith($basePrefix, [System.StringComparison]::OrdinalIgnoreCase)) {
         throw "Target path '$resolvedTargetPath' is not inside '$resolvedBasePath'."
     }
 
-    return $resolvedTargetPath.Substring($basePrefix.Length).Replace('\', '/')
+    return $resolvedTargetPath.Substring($basePrefix.Length).Replace($directorySeparator, '/').Replace($altDirectorySeparator, '/')
 }
 
 $allowedExtensions = @(".lua", ".luau")
