@@ -1,1 +1,1 @@
-print'part1'
+print("Cosmella the femboy")
