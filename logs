@@ -16,6 +16,7 @@ log=[[
 - Auto WallJump toggle
 - WallJump Physics selector: 2025, 2018, or TRIA.OS
 - Button Press Vignette toggle
+- Auto Slide toggle
 - Tickets shop menu, accessible from the icon or the shop
 
 <font color="#9AA4B2"><b>New Button States</b></font>
