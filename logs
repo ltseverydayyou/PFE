@@ -1,3 +1,27 @@
-log=[[-- empty (currently in alpha mode)]]
+log=[[
+<font color="#9AA4B2"><b>Core</b></font>
+- Reworked slide physics and balanced AirDive
+- Reworked swimming physics
+- Rewrote WallRun
+- Reworked the intermission screen
+- Improved game stability
+- Added a 3-second countdown before a map starts so you can actually see where to go
+- Patched a lot of memory leaks
+- Increased performance
+- Added support for TRIA.OS ziplines and related engines
+- Reordered the settings menu and added buttons to navigate between sections
+- Reworked the main UI
+
+<font color="#9AA4B2"><b>New Stuff</b></font>
+- Auto WallJump toggle
+- WallJump Physics selector: 2025, 2018, or TRIA.OS
+- Button Press Vignette toggle
+- Tickets shop menu, accessible from the icon or the shop
+
+<font color="#9AA4B2"><b>New Button States</b></font>
+- <b>Spam</b>: mash the button repeatedly to press it
+- <b>Hold</b>: stand on the button to lower its count and press it
+- <b>HoldGroup</b>: same as Hold, but for grouped buttons
+]]
 
 return log
