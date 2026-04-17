@@ -1,14 +1,27 @@
 log = [[
 <font color="#9AA4B2"><b>CORE</b></font>
 
-• Fixed map time sync issues
-• Fixed BGM sync issues
-• Fixed spectate pitch effects
-• Improved overall stability
+• Improved ziplines
+• Added automatic zipline updates if they get moved or placed incorrectly
+• Reworked the mobile shiftlock button
+• Fixed intermission map asset loading being inaccurate and buggy
 
-<font color="#9AA4B2"><b>UI</b></font>
+<font color="#9AA4B2"><b>NEW SETTINGS OPTIONS</b></font>
 
-• Reworked the air meter for clearer Air and AirTank display
+<b>Tab - Main:</b>
+• Shiftlock Camera Offset
+
+<b>Tab - Visual:</b>
+• Button Press Notifications
+• Map Effects
+• Game SFX
+• Player Effects Visibility
+
+<b>Tab - Gameplay:</b>
+• WallJump Physics
+
+<b>Tab - UI:</b>
+• Button Press Vignette
 ]]
 
 return log
