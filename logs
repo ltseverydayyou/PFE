@@ -1,4 +1,6 @@
 log = [[
+<font color="#9AA4B2"><b>APRIL 17, 2026</b></font>
+
 <font color="#9AA4B2"><b>CORE</b></font>
 
 • Improved ziplines
@@ -22,6 +24,30 @@ log = [[
 
 <b>Tab - UI:</b>
 • Button Press Vignette
+
+<font color="#9AA4B2"><b>APRIL 18, 2026</b></font>
+
+<font color="#9AA4B2"><b>CORE</b></font>
+
+• Reworked console shiftlock
+• Attempted to fix the last player alive bug not properly calculating alive players
+
+<font color="#9AA4B2"><b>NEW SETTINGS OPTIONS</b></font>
+
+<b>Tab - Main:</b>
+• Last Player Notification
+
+<b>Tab - Audio:</b>
+• BGM Notifications
+
+<b>Tab - UI:</b>
+• UI Click SFX
+
+<font color="#9AA4B2"><b>BONUS</b></font>
+
+• Added toggle options for:
+  Last Player Message, Button SFX, Water Splash SFX, Acid Splash SFX, Lava Splash SFX, Shiftlock Icon, and FirstPerson Icon
+• These can now be switched between <b>Default</b> or <b>Custom</b>
 ]]
 
 return log
