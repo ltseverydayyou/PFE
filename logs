@@ -58,3 +58,5 @@ log = [[
 • Fixed invalid animation effect setting values causing tween easing errors
 • Fixed settings values rewriting themselves to valid defaults when corrupted
 ]]
+
+return log
