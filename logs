@@ -48,6 +48,13 @@ log = [[
 • Added toggle options for:
   Last Player Message, Button SFX, Water Splash SFX, Acid Splash SFX, Lava Splash SFX, Shiftlock Icon, and FirstPerson Icon
 • These can now be switched between <b>Default</b> or <b>Custom</b>
-]]
 
-return log
+<font color="#9AA4B2"><b>APRIL 19, 2026</b></font>
+
+<font color="#9AA4B2"><b>CORE</b></font>
+
+• Fixed corrupted keybind setting values causing nil keybind displays and input errors
+• Added automatic keybind value sanitizing and fallback restoration for broken keyboard/controller binds
+• Fixed invalid animation effect setting values causing tween easing errors
+• Fixed settings values rewriting themselves to valid defaults when corrupted
+]]
