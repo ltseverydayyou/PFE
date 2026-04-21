@@ -1,54 +1,4 @@
 log = [[
-<font color="#9AA4B2"><b>APRIL 17, 2026</b></font>
-
-<font color="#9AA4B2"><b>CORE</b></font>
-
-• Improved ziplines
-• Added automatic zipline updates if they get moved or placed incorrectly
-• Reworked the mobile shiftlock button
-• Fixed intermission map asset loading being inaccurate and buggy
-
-<font color="#9AA4B2"><b>NEW SETTINGS OPTIONS</b></font>
-
-<b>Tab - Main:</b>
-• Shiftlock Camera Offset
-
-<b>Tab - Visual:</b>
-• Button Press Notifications
-• Map Effects
-• Game SFX
-• Player Effects Visibility
-
-<b>Tab - Gameplay:</b>
-• WallJump Physics
-
-<b>Tab - UI:</b>
-• Button Press Vignette
-
-<font color="#9AA4B2"><b>APRIL 18, 2026</b></font>
-
-<font color="#9AA4B2"><b>CORE</b></font>
-
-• Reworked console shiftlock
-• Attempted to fix the last player alive bug not properly calculating alive players
-
-<font color="#9AA4B2"><b>NEW SETTINGS OPTIONS</b></font>
-
-<b>Tab - Main:</b>
-• Last Player Notification
-
-<b>Tab - Audio:</b>
-• BGM Notifications
-
-<b>Tab - UI:</b>
-• UI Click SFX
-
-<font color="#9AA4B2"><b>BONUS</b></font>
-
-• Added toggle options for:
-  Last Player Message, Button SFX, Water Splash SFX, Acid Splash SFX, Lava Splash SFX, Shiftlock Icon, and FirstPerson Icon
-• These can now be switched between <b>Default</b> or <b>Custom</b>
-
 <font color="#9AA4B2"><b>APRIL 19, 2026</b></font>
 
 <font color="#9AA4B2"><b>CORE</b></font>
@@ -57,6 +7,14 @@ log = [[
 • Added automatic keybind value sanitizing and fallback restoration for broken keyboard/controller binds
 • Fixed invalid animation effect setting values causing tween easing errors
 • Fixed settings values rewriting themselves to valid defaults when corrupted
+
+<font color="#9AA4B2"><b>APRIL 21, 2026</b></font>
+
+<font color="#9AA4B2"><b>CORE</b></font>
+
+• Resolved data loss issues
+• Reworked the leaderboard script and settings data script
+• Data should no longer get screwed up during update shutdowns and similar cases
 ]]
 
 return log
