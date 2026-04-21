@@ -15,6 +15,9 @@ log = [[
 • Resolved data loss issues
 • Reworked the leaderboard script and settings data script
 • Data should no longer get screwed up during update shutdowns and similar cases
+• Reworked Dizzy Mode so it no longer moves the camera around and feels annoying
+• Removed the Dizzy Mode UI RGB effect due to issues some players were having with it
+• Fixed a bug where the BGM would not restart on a map after the song ended
 ]]
 
 return log
