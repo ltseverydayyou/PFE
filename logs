@@ -18,10 +18,6 @@ log = [[
 
 • Fixed console error spams caused by ContextActionService
 • Fixed the TRIA.OS lib that broke maps when playing them for the second time due to Connec/Disconnect event issues
-
-<font color="#9AA4B2"><b>USELESS</b></font>
-
-• Fixed the Intermission UI so it now properly displays the New/Updated maps label
 ]]
 
 return log
