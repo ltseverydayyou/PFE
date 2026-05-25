@@ -1,23 +1,10 @@
 log = [[
-<font color="#9AA4B2"><b>APRIL 22, 2026</b></font>
+<font color="#9AA4B2"><b>MAY 25, 2026</b></font>
 
 <font color="#9AA4B2"><b>CORE</b></font>
 
-• Fixed an issue with settings not properly saving and loading data from custom options
-
-<font color="#9AA4B2"><b>NEW OPTIONS</b></font>
-
-• Tab - Gameplay:
-  - Zipline Style
-  - Slide Style
-  - Slide Physics
-
-<font color="#9AA4B2"><b>APRIL 23, 2026</b></font>
-
-<font color="#9AA4B2"><b>CORE</b></font>
-
-• Fixed console error spams caused by ContextActionService
-• Fixed the TRIA.OS lib that broke maps when playing them for the second time due to Connec/Disconnect event issues
+• Reworked timelines
+• Bug fixes + Stability improvements
 ]]
 
 return log
