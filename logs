@@ -1,4 +1,23 @@
 log = [[
+<font color="#9AA4B2"><b>JULY 12, 2026</b></font>
+
+<font color="#9AA4B2"><b>MAIN</b></font>
+
+• Added Daily Challenges
+
+• Added Buy Event to the map list menu
+  Players can buy 1 event for 50 Tickets or upgrade it to x2 events for 100 Tickets
+  Bought events are randomly selected by the event handler and applied to the next round
+
+• Added a new Visual setting: Hide Rescue Escapee
+  Hides the Escapee model following the player while rescuing it
+
+
+<font color="#9AA4B2"><b>FIXES</b></font>
+
+• Fixed the map voting menu sometimes appearing again after the player had already voted
+
+
 <font color="#9AA4B2"><b>JULY 11, 2026</b></font>
 
 <font color="#9AA4B2"><b>MAIN</b></font>
