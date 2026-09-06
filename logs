@@ -1,54 +1,36 @@
 log = [[
-<font color="#9AA4B2"><b>JULY 12, 2026</b></font>
+<font color="#9AA4B2"><b>SEPTEMBER 6, 2026</b></font>
 
 <font color="#9AA4B2"><b>MAIN</b></font>
 
-• Added Daily Challenges
+• Added a new 100-tier monthly Season Pass
+  Everyone can earn free rewards, with an optional Premium Pass for extra rewards
 
-• Added Buy Event to the map list menu
-  Players can buy 1 event for 50 Tickets or upgrade it to x2 events for 100 Tickets
-  Bought events are randomly selected by the event handler and applied to the next round
+• Seasonal rewards that rotate each month
 
-• Added a new Visual setting: Hide Rescue Escapee
-  Hides the Escapee model following the player while rescuing it
+• Seasonal tanks and animations to the Season Pass
+
+• Animations are now earned through the Season Pass
+  Emotes remain available in the Shop
+
+• Added Fragments, a new currency
+
+• Added Double Jump, Speed Burst, and Jump Burst | Abilities
+
+• Added custom chat tags with filtering, colors, and a 15-character limit
+
+• Added Fragment uses:
+  - Map overrides | with cooldowns obviously so it's not abusive + at expensive cost
+  - Custom chat tags | has filters so don't attempt
+  - Abilities | short duration
+  - Victory Effects (BETA) | not fully finished so they look trash
+
+• Added Play for X Minutes daily challenges
 
 
 <font color="#9AA4B2"><b>FIXES</b></font>
 
-• Fixed the map voting menu sometimes appearing again after the player had already voted
-
-
-<font color="#9AA4B2"><b>JULY 11, 2026</b></font>
-
-<font color="#9AA4B2"><b>MAIN</b></font>
-
-• Added a new gamemode: Mirror Madness
-
-• Reworked the map loading screen with an improved design and a proper Get Ready / Preparing screen
-
-• Rewrote the client timeline handler for better stability
-  (not like any maps actually use timelines, bruh 💀)
-
-• Rewrote the mirror event behavior to handle UnionOperations properly when maps are mirrored
-  The mirror module is still in BETA, so some maps may not mirror perfectly yet
-
-• Changed group button requirements to behave more like FE2:
-  - 3 or fewer living players require 1 player
-  - 4 or more living players require 2 players
-  - Only you are required when rescuing an Escapee
-
-• Added a new option for Private Server owners to disable map events
-  Map Event Handlers can now be completely disabled during rounds
-
-
-<font color="#9AA4B2"><b>FIXES</b></font>
-
-• Fixed an issue where players could remain attached to a zipline while a new map was loading, preventing them from being moved into the next round and causing them to fall into the void
-
-• Fixed button markers displaying the wrong color for the button's current state
-
-• Added various smaller performance improvements, stability improvements, and bug fixes
-  (yeah, this line is repetitive, but there were still fixes nobody cares about)
+• Fixed Q and E tab switching using the wrong order
 ]]
 
 return log
