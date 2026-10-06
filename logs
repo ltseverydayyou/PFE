@@ -1,36 +1,56 @@
 log = [[
-<font color="#9AA4B2"><b>SEPTEMBER 6, 2026</b></font>
+<font color="#9AA4B2"><b>OCTOBER 6, 2026</b></font>
 
 <font color="#9AA4B2"><b>MAIN</b></font>
 
-• Added a new 100-tier monthly Season Pass
-  Everyone can earn free rewards, with an optional Premium Pass for extra rewards
+• Reworked the GameMenu and related windows
+  Improved layouts and controls for PC, mobile, and console
 
-• Seasonal rewards that rotate each month
+• Reworked the BottomHUD
 
-• Seasonal tanks and animations to the Season Pass
+• Updated map cards in the map list and voting window
 
-• Animations are now earned through the Season Pass
-  Emotes remain available in the Shop
+• Added draggable scrollbars to scrolling windows
+  Supports both touch and mouse controls
 
-• Added Fragments, a new currency
+• Added a Leaders section to the GameMenu
+  View global rankings for Wins and Best Winstreak
 
-• Added Double Jump, Speed Burst, and Jump Burst | Abilities
+• Improved leaderboard updates after player stats are changed
 
-• Added custom chat tags with filtering, colors, and a 15-character limit
+• Expanded mobile button arrangement options
+  Choose each button's side and order
+  Supports 2/2, 3/1, 1/3, all-left, and all-right layouts
 
-• Added Fragment uses:
-  - Map overrides | with cooldowns obviously so it's not abusive + at expensive cost
-  - Custom chat tags | has filters so don't attempt
-  - Abilities | short duration
-  - Victory Effects (BETA) | not fully finished so they look trash
 
-• Added Play for X Minutes daily challenges
+<font color="#9AA4B2"><b>PERFORMANCE</b></font>
+
+• Improved overall game performance and stability
+
+• Improved map loading and transitions between the lobby and maps
+
+• Reduced lag spikes when entering maps, dying, and returning to the lobby
+
+• Improved handling of interrupted map loads and repeated transitions
 
 
 <font color="#9AA4B2"><b>FIXES</b></font>
 
-• Fixed Q and E tab switching using the wrong order
+• Fixed ability issues, including problems after respawning
+
+• Fixed lobby visibility issues during map transitions and deaths
+
+• Improved HUD fitting on smaller mobile screens
+  Added clearance for the jump button and other touch controls
+
+• Fixed Mobile UI Scale hiding behavior
+  Menu buttons now shrink and hide correctly instead of becoming transparent
+
+• Fixed excessive spacing and misaligned air/timer values
+
+• Fixed inconsistent heights and alignment between HUD panels and buttons
+
+• Fixed scrollbar sizing and touch interaction issues
 ]]
 
 return log
